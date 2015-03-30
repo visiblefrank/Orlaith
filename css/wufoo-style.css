@@ -1,0 +1,32 @@
+div#wuf-adv{
+	display: none!important;
+}
+
+.wufoo, #public{
+	font-family: 'helvetica', sans-serif;
+}
+  
+html.embed, html.embed #container{
+	  background-color: transparent;
+ }
+ 
+ input.medium, select.medium{
+	 width: 100%;
+ }
+ 
+ form li span{
+	 min-width: 50%;
+	 margin: 0;
+	 
+ }
+ #Field1{
+	 border-right: 1px solid #222;
+ }
+ 
+ .wufoo input.text{
+	 width: 100%;
+	 line-height: 1.6em;
+	 border: none;
+	 background: rgba(0,0,0,0.3);
+	 line-height: 3em;
+ }
